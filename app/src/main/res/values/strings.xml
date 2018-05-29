@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Calculator</string>
+
+    <string name="Number1">1</string>
+    <string name="Number2">2</string>
+    <string name="Number3">3</string>
+    <string name="Number4">4</string>
+    <string name="Number5">5</string>
+    <string name="Number6">6</string>
+    <string name="Number7">7</string>
+    <string name="Number8">8</string>
+    <string name="Number9">9</string>
+    <string name="Number0">0</string>
+
+    <string name="Comma">.</string>
+    <string name="EqualSign">=</string>
+    <string name="Summarize">+</string>
+    <string name="Subtract">—</string>
+    <string name="Multiply"> &#215; </string>
+    <string name="Divide"> &#247; </string>
+    <string name="AC">AC</string>
+    <string name="PlusMinus">+/-</string>
+    <string name="Percent"> &#37; </string>
+    <string name="e">&#101;</string>
+    <string name="Factorial">!</string>
+    <string name="C">C</string>
+    <string name="SQRT2">²√x</string>
+    <string name="SQRT3">³√&#120;</string>
+    <string name="X2">&#120;²</string>
+    <string name="X3">&#120;³</string>
+    <string name="Q10X">10ⁿ</string>
+    <string name="LN">ln x</string>
+    <string name="LG">lg x</string>
+    <string name="Pi"> &#960; </string>
+
+</resources>
+
